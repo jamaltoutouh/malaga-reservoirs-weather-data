@@ -153,5 +153,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Data provided by Spanish water management authorities
-- Meteorological data from AEMET (Spanish Meteorological Agency)
+- Students name
