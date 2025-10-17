@@ -57,10 +57,6 @@ Each reservoir has its own CSV file named after the reservoir:
 | `LIMONERO.csv` | Limonero | S23 | ~8,600 | 2000-2024 |
 | `VINUELA.csv` | Viñuela | S24 | ~8,600 | 2000-2024 |
 
-### Data Sources
-- **Reservoir Data**: Spanish water management authorities
-- **Meteorological Data**: AEMET (Spanish Meteorological Agency)
-- **Weather Stations**: 2-3 stations per reservoir area, data averaged for robustness
 
 ## Usage Examples
 
