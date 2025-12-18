@@ -1,4 +1,3 @@
-"#datatype measurement,tag,tag,field,field,timestamp"
 measurement,codigo,nombre,reserva,porcentaje,timestamp
 embalses,S37,VIÃUELA,84.44,51,2000-01-01T00:00:00Z
 embalses,S37,VIÃUELA,84.4,51,2000-01-02T00:00:00Z

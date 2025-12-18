@@ -1,4 +1,3 @@
-"#datatype measurement,tag,tag,field,field,timestamp"
 measurement,codigo,nombre,reserva,porcentaje,timestamp
 embalses,S30,GUADALHORCE,80.33,64,2000-01-01T00:00:00Z
 embalses,S30,GUADALHORCE,80.59,64,2000-01-02T00:00:00Z

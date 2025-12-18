@@ -1,4 +1,3 @@
-"#datatype measurement,tag,tag,field,field,timestamp"
 measurement,codigo,nombre,reserva,porcentaje,timestamp
 embalses,S31,CONDE DE GUADALHORCE,20.63,31,2000-01-01T00:00:00Z
 embalses,S31,CONDE DE GUADALHORCE,20.76,31,2000-01-02T00:00:00Z
